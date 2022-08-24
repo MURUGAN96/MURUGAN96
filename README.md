@@ -1,4 +1,5 @@
-                                                                    Murugan Athmagnanam 
+Hi there, I'm Murugan Athmagnanam
+
 WELCOME To My GitHub! 
 
 A Passionate Software Developer From Tamil Nadu, India  
